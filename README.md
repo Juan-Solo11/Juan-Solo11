@@ -2,7 +2,7 @@
 
 :test_tube: **Ingeniero Biomédico**
 :film_projector: **Filmmaker en progreso**
-:lightbulb: **Curioso por naturaleza**
+:light_bulb: **Curioso por naturaleza**
 :parachute: **Fan de los extremos**
 
 ## Contacto
