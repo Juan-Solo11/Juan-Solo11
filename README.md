@@ -12,11 +12,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/Juan-Solo11/miTercerRepoGitHub/issues/1) in [Juan-Solo11/miTercerRepoGitHub](https://github.com/Juan-Solo11/miTercerRepoGitHub)<br>
-2. ❗️ Opened issue [#1](https://github.com/Juan-Solo11/miTercerRepoGitHub/issues/1) in [Juan-Solo11/miTercerRepoGitHub](https://github.com/Juan-Solo11/miTercerRepoGitHub)<br>
-3. 📔 Created new repository [Juan-Solo11/miCuartoRepo](https://github.com/Juan-Solo11/miCuartoRepo)<br>
-4. 📔 Created new repository [Juan-Solo11/miTercerRepoGitHub](https://github.com/Juan-Solo11/miTercerRepoGitHub)<br>
-5. ⬆️ Pushed 1 commit(s) to [Juan-Solo11/Juan-Solo11](https://github.com/Juan-Solo11/Juan-Solo11)<br>
+1. ⬆️ Pushed 1 commit(s) to [Juan-Solo11/miQuintoRepo](https://github.com/Juan-Solo11/miQuintoRepo)<br>
+2. ✌️ Released [v0.1.0](https://github.com/Juan-Solo11/miQuintoRepo/releases/tag/v0.1.0) in [Juan-Solo11/miQuintoRepo](https://github.com/Juan-Solo11/miQuintoRepo)<br>
+3. ⬆️ Pushed 1 commit(s) to [Juan-Solo11/miQuintoRepo](https://github.com/Juan-Solo11/miQuintoRepo)<br>
+4. 📔 Created new repository [Juan-Solo11/miQuintoRepo](https://github.com/Juan-Solo11/miQuintoRepo)<br>
+5. 💪 Opened PR [#2](https://github.com/Juan-Solo11/miCuartoRepo/pull/2) in [Juan-Solo11/miCuartoRepo](https://github.com/Juan-Solo11/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- RECENT_ACTIVITY:last_update -->
