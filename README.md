@@ -12,7 +12,6 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Juan-Solo11/checkout-payment-sample](https://github.com/Juan-Solo11/checkout-payment-sample) from [mercadopago/checkout-payment-sample](https://github.com/mercadopago/checkout-payment-sample)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- RECENT_ACTIVITY:last_update -->
